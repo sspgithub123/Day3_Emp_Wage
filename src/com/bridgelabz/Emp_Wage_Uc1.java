@@ -13,5 +13,6 @@ public class Emp_Wage_Uc1
             System.out.println("Employee is Absent");
 
 
+
     }
 }

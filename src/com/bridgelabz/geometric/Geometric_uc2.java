@@ -28,7 +28,6 @@ public class Geometric_uc2 {
         System.out.println("enter end point of line ");
         int y2 = sc.nextInt();
 
-
         double length2 = Math.sqrt((x2 - x1) * 2 + (y2 - y1) * 2);
         String str1 = length2 + "";
         System.out.println("Length of second Line is :" + str1);
